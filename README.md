@@ -74,7 +74,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - District of Columbia: [Government of The District of Columbia](https://coronavirus.dc.gov/page/coronavirus-data)
   - Florida: [Department of Health](https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86)
   - Georgia: [Department of Public Health](https://dph.georgia.gov/covid-19-daily-status-report)
-  - Gaum: [Department of Public Health and Social Services](http://dphss.guam.gov/covid-19/)
+  - Guam: [Department of Public Health and Social Services](http://dphss.guam.gov/covid-19/)
   - Hawaii: [Department of Health](https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/)
   - Idaho: [State Government](https://coronavirus.idaho.gov/)
   - Illinois: [Department of Public Health](https://dph.illinois.gov/covid19)
@@ -263,17 +263,21 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of Luxembourg: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
   - Macau:
     - Health Services of the Government of the Macau Special Administrative Region: https://www.ssm.gov.mo/portal/
-  - Mexico:
-    - Government of Mexico: https://datos.covid-19.conacyt.mx/#DOView
   - Malaysia
     - Ministry of Health: https://covid-19.moh.gov.my/
     - Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera: https://github.com/MoH-Malaysia/covid19-public
+  - Mexico:
+    - Government of Mexico: https://datos.covid-19.conacyt.mx/#DOView
+  - Monaco:
+    - Gouvernement Princier Principaute de Monaco: https://www.gouv.mc/Action-Gouvernementale/Coronavirus-Covid-19/Actualites
   - Netherlands:
     - National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
   - New Zealand:
     - Ministry of Health: https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-current-cases
   - Palau:
-    - http://www.palauhealth.org/2019nCoV_SitRep/MOH-COVID-19%20Situation%20Report.pdf 
+    - Ministry of Health & Human Services: http://www.palauhealth.org/2019nCoV_SitRep/MOH-COVID-19%20Situation%20Report.pdf 
+  - Paraguay:
+    - Ministerio de Salud Publica Y Bienestar Social: https://www.mspbs.gov.py/reporte-covid19.html
   - Pakistan:
     - Government of Pakistan: http://covid.gov.pk/stats/pakistan
   - Peru:
@@ -297,6 +301,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Singapore Ministry of Health: https://www.moh.gov.sg/covid-19 
   - Slovakia: 
     - Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
+  - Slovenia:
+    - Sledilnik: https://covid-19.sledilnik.org/en/stats
   - South Africa:
     - South Africa Department of Health: https://sacoronavirus.co.za/
   - South Korea:
