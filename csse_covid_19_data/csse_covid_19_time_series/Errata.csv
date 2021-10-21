@@ -31586,3 +31586,188 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 10/18/2021,time_series_covid19_confirmed_US.csv,"Bexar, Texas, US",10/17/2021,316895,317916,"Correct Bexar, Texas, US confirmed data"
 10/18/2021,time_series_covid19_confirmed_global.csv,US,10/16/2021,44916423,44916737,Correct US confirmed data
 10/18/2021,time_series_covid19_confirmed_global.csv,US,10/17/2021,44933336,44934357,Correct US confirmed data
+10/20/2021,time_series_covid19_confirmed_US.csv,"Baker, Oregon, US",10/14/2021,1956,1974,"Correct Baker, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Benton, Oregon, US",10/14/2021,5215,5271,"Correct Benton, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Clackamas, Oregon, US",10/14/2021,28835,29031,"Correct Clackamas, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Clatsop, Oregon, US",10/14/2021,2380,2389,"Correct Clatsop, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Columbia, Oregon, US",10/14/2021,3681,3697,"Correct Columbia, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Coos, Oregon, US",10/14/2021,4815,4869,"Correct Coos, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Crook, Oregon, US",10/14/2021,2636,2703,"Correct Crook, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Curry, Oregon, US",10/14/2021,1770,1779,"Correct Curry, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Deschutes, Oregon, US",10/14/2021,19252,19492,"Correct Deschutes, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Douglas, Oregon, US",10/14/2021,11664,11752,"Correct Douglas, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Grant, Oregon, US",10/14/2021,965,975,"Correct Grant, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Harney, Oregon, US",10/14/2021,1064,1081,"Correct Harney, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Hood River, Oregon, US",10/14/2021,1860,1878,"Correct Hood River, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Jackson, Oregon, US",10/14/2021,22465,22582,"Correct Jackson, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Jefferson, Oregon, US",10/14/2021,3556,3596,"Correct Jefferson, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Josephine, Oregon, US",10/14/2021,9174,9209,"Correct Josephine, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Klamath, Oregon, US",10/14/2021,7549,7630,"Correct Klamath, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Lake, Oregon, US",10/14/2021,869,883,"Correct Lake, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Lane, Oregon, US",10/14/2021,26661,26884,"Correct Lane, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Lincoln, Oregon, US",10/14/2021,3060,3092,"Correct Lincoln, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Linn, Oregon, US",10/14/2021,12200,12295,"Correct Linn, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Malheur, Oregon, US",10/14/2021,5423,5484,"Correct Malheur, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Marion, Oregon, US",10/14/2021,35705,35933,"Correct Marion, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Morrow, Oregon, US",10/14/2021,1802,1808,"Correct Morrow, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Multnomah, Oregon, US",10/14/2021,54651,54779,"Correct Multnomah, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Polk, Oregon, US",10/14/2021,7073,7138,"Correct Polk, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Tillamook, Oregon, US",10/14/2021,1919,1928,"Correct Tillamook, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Umatilla, Oregon, US",10/14/2021,14081,14214,"Correct Umatilla, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Union, Oregon, US",10/14/2021,3099,3117,"Correct Union, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Wallowa, Oregon, US",10/14/2021,657,668,"Correct Wallowa, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Wasco, Oregon, US",10/14/2021,2758,2798,"Correct Wasco, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Washington, Oregon, US",10/14/2021,37724,37906,"Correct Washington, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Wheeler, Oregon, US",10/14/2021,94,99,"Correct Wheeler, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_confirmed_US.csv,"Yamhill, Oregon, US",10/14/2021,8438,8490,"Correct Yamhill, Oregon, US confirmed data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Benton, Oregon, US",10/14/2021,31,30,"Correct Benton, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Clackamas, Oregon, US",10/14/2021,298,303,"Correct Clackamas, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Clatsop, Oregon, US",10/14/2021,27,28,"Correct Clatsop, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Crook, Oregon, US",10/14/2021,43,45,"Correct Crook, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Curry, Oregon, US",10/14/2021,19,22,"Correct Curry, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Douglas, Oregon, US",10/14/2021,238,240,"Correct Douglas, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Hood River, Oregon, US",10/14/2021,36,37,"Correct Hood River, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Jackson, Oregon, US",10/14/2021,297,300,"Correct Jackson, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Josephine, Oregon, US",10/14/2021,191,195,"Correct Josephine, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Klamath, Oregon, US",10/14/2021,106,110,"Correct Klamath, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Lake, Oregon, US",10/14/2021,10,11,"Correct Lake, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Lane, Oregon, US",10/14/2021,291,295,"Correct Lane, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Lincoln, Oregon, US",10/14/2021,33,36,"Correct Lincoln, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Linn, Oregon, US",10/14/2021,114,119,"Correct Linn, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Marion, Oregon, US",10/14/2021,439,442,"Correct Marion, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Multnomah, Oregon, US",10/14/2021,678,686,"Correct Multnomah, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Tillamook, Oregon, US",10/14/2021,26,27,"Correct Tillamook, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Umatilla, Oregon, US",10/14/2021,139,141,"Correct Umatilla, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Union, Oregon, US",10/14/2021,44,46,"Correct Union, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Wasco, Oregon, US",10/14/2021,39,40,"Correct Wasco, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Washington, Oregon, US",10/14/2021,310,312,"Correct Washington, Oregon, US deaths data"
+10/20/2021,time_series_covid19_deaths_US.csv,"Yamhill, Oregon, US",10/14/2021,108,109,"Correct Yamhill, Oregon, US deaths data"
+10/20/2021,time_series_covid19_confirmed_global.csv,US,10/14/2021,44767906,44770279,Correct US confirmed data
+10/20/2021,time_series_covid19_deaths_global.csv,US,10/14/2021,721585,721642,Correct US deaths data
+10/20/2021,time_series_covid19_confirmed_global.csv,Mexico,10/19/2021,3758469,3762689,Correct Mexico confirmed data
+10/20/2021,time_series_covid19_deaths_global.csv,Mexico,10/19/2021,284477,284925,Correct Mexico deaths data
+10/20/2021,time_series_covid19_confirmed_global.csv,Peru,10/19/2021,2190396,2191171,Correct Peru confirmed data
+10/20/2021,time_series_covid19_deaths_global.csv,Peru,10/19/2021,199882,199928,Correct Peru deaths data
+10/21/2021,time_series_covid19_confirmed_global.csv,Greece,03/25/2020,821,835,Correct Greece confirmed data
+10/21/2021,time_series_covid19_confirmed_global.csv,Greece,03/26/2020,892,835,Correct Greece confirmed data
+10/21/2021,time_series_covid19_confirmed_global.csv,Greece,03/27/2020,966,835,Correct Greece confirmed data
+10/21/2021,time_series_covid19_confirmed_global.csv,Greece,03/28/2020,1061,835,Correct Greece confirmed data
+10/21/2021,time_series_covid19_confirmed_global.csv,Greece,03/30/2020,1212,1156,Correct Greece confirmed data
+10/21/2021,time_series_covid19_confirmed_global.csv,Greece,03/31/2020,1314,1156,Correct Greece confirmed data
+10/21/2021,time_series_covid19_confirmed_global.csv,Greece,04/01/2020,1415,1156,Correct Greece confirmed data
+10/21/2021,time_series_covid19_confirmed_global.csv,Greece,04/02/2020,1544,1156,Correct Greece confirmed data
+10/21/2021,time_series_covid19_confirmed_global.csv,Greece,04/10/2020,2011,2009,Correct Greece confirmed data
+10/21/2021,time_series_covid19_confirmed_global.csv,Greece,04/12/2020,2114,2081,Correct Greece confirmed data
+10/21/2021,time_series_covid19_confirmed_global.csv,Greece,04/19/2020,2235,2245,Correct Greece confirmed data
+10/21/2021,time_series_covid19_confirmed_global.csv,Greece,05/22/2020,2874,2873,Correct Greece confirmed data
+10/21/2021,time_series_covid19_confirmed_global.csv,Greece,05/26/2020,2892,2889,Correct Greece confirmed data
+10/21/2021,time_series_covid19_confirmed_global.csv,Greece,06/03/2020,2937,2952,Correct Greece confirmed data
+10/21/2021,time_series_covid19_confirmed_global.csv,Greece,06/05/2020,2967,3049,Correct Greece confirmed data
+10/21/2021,time_series_covid19_confirmed_global.csv,Greece,06/06/2020,2980,3049,Correct Greece confirmed data
+10/21/2021,time_series_covid19_confirmed_global.csv,Greece,06/07/2020,2997,3049,Correct Greece confirmed data
+10/21/2021,time_series_covid19_confirmed_global.csv,Greece,08/05/2020,4974,4973,Correct Greece confirmed data
+10/21/2021,time_series_covid19_confirmed_global.csv,Greece,08/26/2020,9280,8987,Correct Greece confirmed data
+10/21/2021,time_series_covid19_confirmed_global.csv,Greece,05/13/2021,371712,371693,Correct Greece confirmed data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,03/20/2020,6,8,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,03/26/2020,26,22,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,03/27/2020,28,22,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,03/28/2020,32,22,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,03/29/2020,38,69,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,03/30/2020,43,69,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,03/31/2020,49,69,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,04/01/2020,50,69,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,04/02/2020,53,69,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,04/03/2020,63,59,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,04/09/2020,87,86,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,04/10/2020,92,90,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,04/12/2020,98,93,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,04/19/2020,113,116,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/03/2020,179,180,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/05/2020,180,182,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/06/2020,180,182,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/07/2020,180,182,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/26/2020,248,243,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/12/2021,12402,12405,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/13/2021,12419,12422,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/14/2021,12437,12443,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/15/2021,12459,12465,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/16/2021,12472,12478,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/17/2021,12488,12494,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/18/2021,12508,12514,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/19/2021,12528,12534,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/20/2021,12542,12548,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/21/2021,12559,12565,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/22/2021,12575,12581,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/23/2021,12589,12595,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/24/2021,12604,12613,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/25/2021,12625,12634,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/26/2021,12637,12646,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/27/2021,12655,12664,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/28/2021,12663,12682,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/29/2021,12676,12695,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,06/30/2021,12687,12706,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/01/2021,12691,12710,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/02/2021,12701,12722,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/03/2021,12710,12731,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/04/2021,12716,12737,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/05/2021,12722,12743,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/06/2021,12730,12754,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/07/2021,12739,12763,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/08/2021,12749,12773,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/09/2021,12761,12785,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/10/2021,12763,12787,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/11/2021,12768,12792,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/12/2021,12778,12802,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/13/2021,12782,12806,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/14/2021,12789,12813,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/15/2021,12795,12819,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/16/2021,12809,12833,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/17/2021,12816,12840,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/18/2021,12826,12850,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/19/2021,12834,12858,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/20/2021,12843,12867,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/21/2021,12846,12870,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/22/2021,12851,12875,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/23/2021,12858,12882,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/24/2021,12866,12890,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/25/2021,12874,12898,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/26/2021,12879,12903,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/27/2021,12887,12911,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/28/2021,12902,12926,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/29/2021,12911,12935,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/30/2021,12923,12948,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,07/31/2021,12940,12965,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/01/2021,12950,12975,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/02/2021,12958,12983,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/03/2021,12972,12997,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/04/2021,12988,13013,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/05/2021,13000,13026,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/06/2021,13021,13048,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/07/2021,13031,13058,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/08/2021,13048,13075,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/09/2021,13068,13097,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/10/2021,13087,13118,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/11/2021,13106,13138,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/12/2021,13126,13158,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/13/2021,13150,13182,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/14/2021,13174,13206,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/15/2021,13191,13223,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/16/2021,13204,13237,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/17/2021,13220,13253,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/18/2021,13245,13278,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/19/2021,13265,13298,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/20/2021,13295,13328,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/21/2021,13318,13351,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/22/2021,13351,13384,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/23/2021,13385,13422,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/24/2021,13417,13466,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/25/2021,13459,13509,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/26/2021,13487,13539,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/27/2021,13509,13561,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/28/2021,13544,13599,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/29/2021,13581,13636,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/30/2021,13600,13656,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,08/31/2021,13622,13691,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,09/01/2021,13669,13743,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,09/02/2021,13702,13777,Correct Greece deaths data
+10/21/2021,time_series_covid19_deaths_global.csv,Greece,09/03/2021,13737,13813,Correct Greece deaths data
