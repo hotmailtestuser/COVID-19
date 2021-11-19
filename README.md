@@ -304,7 +304,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Singapore:
     - Singapore Ministry of Health: https://www.moh.gov.sg/covid-19 
   - Slovakia: 
-    - Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
+    - Ministry of Investment, Regional Development and Information: https://korona.gov.sk/koronavirus-na-slovensku-v-cislach/#covid-aut-nasledujuci-pondelok
   - Slovenia:
     - Sledilnik: https://covid-19.sledilnik.org/en/stats
   - South Africa:
