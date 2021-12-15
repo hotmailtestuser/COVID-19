@@ -32674,3 +32674,24 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 12/14/2021,time_series_covid19_confirmed_global.csv,Czechia,11/29/2021,2132380,2133098,Correct Czechia confirmed data
 12/14/2021,time_series_covid19_deaths_global.csv,Czechia,11/23/2021,32304,32309,Correct Czechia deaths data
 12/14/2021,time_series_covid19_deaths_global.csv,Czechia,11/29/2021,32929,32953,Correct Czechia deaths data
+12/14/2021,time_series_covid19_confirmed_US.csv,"Apache, Arizona, US",12/13/2021,15745,15763,"Correct Apache, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Cochise, Arizona, US",12/13/2021,19098,19126,"Correct Cochise, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Coconino, Arizona, US",12/13/2021,26321,26353,"Correct Coconino, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Gila, Arizona, US",12/13/2021,11675,11693,"Correct Gila, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Graham, Arizona, US",12/13/2021,8785,8793,"Correct Graham, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Greenlee, Arizona, US",12/13/2021,1418,1421,"Correct Greenlee, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"La Paz, Arizona, US",12/13/2021,3515,3516,"Correct La Paz, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Maricopa, Arizona, US",12/13/2021,828549,830216,"Correct Maricopa, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Mohave, Arizona, US",12/13/2021,37182,37246,"Correct Mohave, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Navajo, Arizona, US",12/13/2021,25697,25768,"Correct Navajo, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Pima, Arizona, US",12/13/2021,165457,165803,"Correct Pima, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Pinal, Arizona, US",12/13/2021,84682,84692,"Correct Pinal, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Santa Cruz, Arizona, US",12/13/2021,10172,10188,"Correct Santa Cruz, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Yavapai, Arizona, US",12/13/2021,34500,34578,"Correct Yavapai, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_confirmed_US.csv,"Yuma, Arizona, US",12/13/2021,43393,43424,"Correct Yuma, Arizona, US confirmed data"
+12/14/2021,time_series_covid19_deaths_US.csv,"Coconino, Arizona, US",12/13/2021,394,395,"Correct Coconino, Arizona, US deaths data"
+12/14/2021,time_series_covid19_deaths_US.csv,"Greenlee, Arizona, US",12/13/2021,23,24,"Correct Greenlee, Arizona, US deaths data"
+12/14/2021,time_series_covid19_deaths_US.csv,"Maricopa, Arizona, US",12/13/2021,13127,13130,"Correct Maricopa, Arizona, US deaths data"
+12/14/2021,time_series_covid19_deaths_US.csv,"Yavapai, Arizona, US",12/13/2021,868,867,"Correct Yavapai, Arizona, US deaths data"
+12/14/2021,time_series_covid19_confirmed_global.csv,US,12/13/2021,50117198,50119589,Correct US confirmed data
+12/14/2021,time_series_covid19_deaths_global.csv,US,12/13/2021,798710,798714,Correct US deaths data
