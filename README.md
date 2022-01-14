@@ -248,8 +248,6 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Italy:
     - Civil Protection Department: https://github.com/pcm-dpc/COVID-19/tree/master/
     - Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
-  - Jamaica: 
-    - Ministry of Health & Wellness: https://www.moh.gov.jm
   - Japan: 
     - NHK: https://www3.nhk.or.jp/news/special/coronavirus/data/
   - Jordan:
