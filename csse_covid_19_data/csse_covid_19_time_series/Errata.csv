@@ -33549,3 +33549,35 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/26/2022,time_series_covid19_deaths_US.csv,"Winston, Alabama, US",01/25/2022,114,115,"Correct Winston, Alabama, US deaths data"
 01/26/2022,time_series_covid19_confirmed_global.csv,US,01/25/2022,72171208,72257016,Correct US confirmed data
 01/26/2022,time_series_covid19_deaths_global.csv,US,01/25/2022,871937,872025,Correct US deaths data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,466616,477841,Correct Canada confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,308079,314787,Correct Canada confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,116133,116770,Correct Canada confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,26391,26741,Correct Canada confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,14522,15811,Correct Canada confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,4680,5120,Correct Canada confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,34689,35051,Correct Canada confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,1358,1439,Correct Canada confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,838436,841413,Correct Canada confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,110399,111447,Correct Canada confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,2959,2981,Correct Canada confirmed data
+01/26/2022,time_series_covid19_deaths_global.csv,Canada,01/25/2022,3429,3483,Correct Canada deaths data
+01/26/2022,time_series_covid19_deaths_global.csv,Canada,01/25/2022,2529,2554,Correct Canada deaths data
+01/26/2022,time_series_covid19_deaths_global.csv,Canada,01/25/2022,1515,1521,Correct Canada deaths data
+01/26/2022,time_series_covid19_deaths_global.csv,Canada,01/25/2022,212,215,Correct Canada deaths data
+01/26/2022,time_series_covid19_deaths_global.csv,Canada,01/25/2022,30,31,Correct Canada deaths data
+01/26/2022,time_series_covid19_deaths_global.csv,Canada,01/25/2022,14,15,Correct Canada deaths data
+01/26/2022,time_series_covid19_deaths_global.csv,Canada,01/25/2022,128,131,Correct Canada deaths data
+01/26/2022,time_series_covid19_deaths_global.csv,Canada,01/25/2022,6,9,Correct Canada deaths data
+01/26/2022,time_series_covid19_deaths_global.csv,Canada,01/25/2022,12851,12936,Correct Canada deaths data
+01/26/2022,time_series_covid19_deaths_global.csv,Canada,01/25/2022,975,977,Correct Canada deaths data
+01/26/2022,time_series_covid19_confirmed_global.csv,Kiribati,01/19/2022,2,37,Correct Kiribati confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Kiribati,01/20/2022,2,37,Correct Kiribati confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Kiribati,01/21/2022,2,39,Correct Kiribati confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Kiribati,01/22/2022,2,39,Correct Kiribati confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Kiribati,01/23/2022,2,39,Correct Kiribati confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Kiribati,01/24/2022,2,59,Correct Kiribati confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Kiribati,01/25/2022,2,66,Correct Kiribati confirmed data
+01/29/2022,time_series_covid19_deaths_US.csv,"Unassigned, Florida, US",01/28/2022,605,1192,"Correct Unassigned, Florida, US deaths data"
+01/29/2022,time_series_covid19_deaths_global.csv,US,01/28/2022,882294,882881,Correct US deaths data
+01/29/2022,time_series_covid19_confirmed_US.csv,"Humboldt, California, US",01/28/2022,16613,17179,"Correct Humboldt, California, US confirmed data"
+01/29/2022,time_series_covid19_confirmed_global.csv,US,01/28/2022,74066546,74067112,Correct US confirmed data

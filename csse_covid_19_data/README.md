@@ -281,6 +281,8 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * January 21, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * January 25, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * January 25, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* January 28, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* January 28, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
@@ -454,6 +456,8 @@ Date: Location | File | Change | Data source for change
 * January 11, 2022: Thailand | Reporting in Thailand has been corrected from 07-22-2020 to 01-05-2022
 * January 21, 2022: Texas, US | Reporting in Texas has been corrected from 04-12-2020 to 01-20-2022. This correction is to align our data with the state reporting.
 * January 22, 2022: Texas, US | Reporting in Texas has been corrected from 04-01-2020 to 01-16-2022. This correction is to align our data with the state reporting.
+* January 27, 2022: Finland | Reporting in Finland has been corrected from 02-11-2022 to 01-26-2022. This correction is to align our data with the World Health Reporting.
+* January 27, 2022: Ontario, Canada | Reporting in Ontario, Canada has been corrected from 03-24-2020 to 01-26-2022. This correction is to align our data with the [Ontario Government](https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario/resource/ed270bb8-340b-41f9-a7c6-e8ef587e6d11).
 
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
