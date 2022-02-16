@@ -3985,7 +3985,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Bermuda,United Kingdom,2022-02-12 04:21:06,32.3078,-64.7505,11146,120,,,"Bermuda, United Kingdom",17898.60774332375,1.0766194150367845
 ,,British Virgin Islands,United Kingdom,2022-02-12 04:21:06,18.4207,-64.64,5928,61,,,"British Virgin Islands, United Kingdom",19605.11955551146,1.0290148448043186
 ,,Cayman Islands,United Kingdom,2022-02-12 04:21:06,19.3133,-81.2546,17687,16,,,"Cayman Islands, United Kingdom",26912.659768715763,0.09046192118505117
-,,Channel Islands,United Kingdom,2022-02-12 04:21:06,49.3723,-2.3644,46366,137,,,"Channel Islands, United Kingdom",27194.29439468853,0.2954751326402968
+,,Channel Islands,United Kingdom,2022-02-12 04:21:06,49.3723,-2.3644,0,0,,,"Channel Islands, United Kingdom",27194.29439468853,0.2954751326402968
 ,,England,United Kingdom,2022-02-12 04:21:06,52.3555,-1.1743,15547597,138794,,,"England, United Kingdom",27774.874413153924,0.8927038692860382
 ,,Falkland Islands (Malvinas),United Kingdom,2022-02-12 04:21:06,-51.7963,-59.5236,98,0,,,"Falkland Islands (Malvinas), United Kingdom",2813.666379557853,0.0
 ,,Gibraltar,United Kingdom,2022-02-12 04:21:06,36.1408,-5.3536,14284,101,,,"Gibraltar, United Kingdom",42397.0793386958,0.7070848501820218
@@ -4007,3 +4007,5 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Yemen,2022-02-12 04:21:06,15.552726999999999,48.516388,11659,2100,,,Yemen,39.09009759549129,18.011836349601168
 ,,,Zambia,2022-02-12 04:21:06,-13.133897,27.849332,309013,3936,,,Zambia,1680.8841361456696,1.2737328203020586
 ,,,Zimbabwe,2022-02-12 04:21:06,-19.015438,29.154857,231214,5374,,,Zimbabwe,1555.6424383972285,2.3242537216604533
+,,Jersey,United Kingdom,2022-02-12 04:21:06,49.2138,-2.1358,33726,106,0,0,"Jersey, United Kingdom",0.0,0.0
+,,Guernsey,United Kingdom,2022-02-12 04:21:06,49.448196,-2.58949,12300,31,0,0,"Guernsey, United Kingdom",0.0,0.0

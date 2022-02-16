@@ -3090,7 +3090,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Ceara,Brazil,2020-05-31 02:32:45,-5.4984,-39.3206,47822,2956,0,43550,"Ceara, Brazil",509.25977636196274,6.356169096460672
 ,,Cesar,Colombia,2020-05-31 02:32:45,9.3373,-73.6536,163,12,59,92,"Cesar, Colombia",13.576839078640717,7.361963190184049
 ,,Ceuta,Spain,2020-05-31 02:32:45,35.8894,-5.3213,145,4,163,0,"Ceuta, Spain",170.9321104810855,2.7586206896551726
-,,Channel Islands,United Kingdom,2020-05-31 02:32:45,49.3723,-2.3644,560,45,525,0,"Channel Islands, United Kingdom",328.4476741799072,8.035714285714286
+,,Channel Islands,United Kingdom,2020-05-31 02:32:45,49.3723,-2.3644,0,0,525,0,"Channel Islands, United Kingdom",328.4476741799072,8.035714285714286
 ,,Chiapas,Mexico,2020-05-31 02:32:45,16.7569,-93.1292,1711,131,955,625,"Chiapas, Mexico",29.85847154292212,7.656341320864991
 ,,Chiba,Japan,2020-05-31 02:32:45,35.510141,140.198917,897,45,805,47,"Chiba, Japan",14.330488217526906,5.016722408026756
 ,,Chihuahua,Mexico,2020-05-31 02:32:45,28.63300000000001,-106.0691,1569,314,1095,160,"Chihuahua, Mexico",41.27332278132215,20.01274697259401
@@ -3553,3 +3553,5 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Tonga,2020-05-31 02:32:45,-21.179,-175.1982,0,0,0,0,Tonga,0.0,
 ,,,Winter Olympics 2022,2020-05-31 02:32:45,39.9042,116.4074,0,0,0,0,Winter Olympics 2022,0.0,0.0
 ,,,Antarctica,2020-05-31 02:32:45,-71.9499,23.347,0,0,0,0,Antarctica,0.0,0.0
+,,Jersey,United Kingdom,2020-05-31 02:32:45,49.2138,-2.1358,304,29,0,0,"Jersey, United Kingdom",0.0,0.0
+,,Guernsey,United Kingdom,2020-05-31 02:32:45,49.448196,-2.58949,252,16,0,0,"Guernsey, United Kingdom",0.0,0.0

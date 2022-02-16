@@ -3958,7 +3958,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Bermuda,United Kingdom,2021-03-21 05:25:44,32.3078,-64.7505,773,12,709,52,"Bermuda, United Kingdom",1241.3084322258442,1.5523932729624839
 ,,British Virgin Islands,United Kingdom,2021-03-21 05:25:44,18.4207,-64.64,153,1,131,21,"British Virgin Islands, United Kingdom",506.00257962099414,0.6535947712418301
 ,,Cayman Islands,United Kingdom,2021-03-21 05:25:44,19.3133,-81.2546,475,2,442,31,"Cayman Islands, United Kingdom",722.7632379793062,0.42105263157894735
-,,Channel Islands,United Kingdom,2021-03-21 05:25:44,49.3723,-2.3644,4045,86,3965,0,"Channel Islands, United Kingdom",2372.447932245937,2.1260815822002472
+,,Channel Islands,United Kingdom,2021-03-21 05:25:44,49.3723,-2.3644,0,0,3965,0,"Channel Islands, United Kingdom",2372.447932245937,2.1260815822002472
 ,,England,United Kingdom,2021-03-21 05:25:44,52.3555,-1.1743,3754821,110985,0,3643836,"England, United Kingdom",6707.768520040302,2.9558000234898016
 ,,Falkland Islands (Malvinas),United Kingdom,2021-03-21 05:25:44,-51.7963,-59.5236,54,0,54,0,"Falkland Islands (Malvinas), United Kingdom",1550.3875968992247,0.0
 ,,Gibraltar,United Kingdom,2021-03-21 05:25:44,36.1408,-5.3536,4270,94,4148,28,"Gibraltar, United Kingdom",12674.007895283607,2.201405152224824
@@ -4005,3 +4005,5 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Tonga,2021-03-21 05:25:44,-21.179,-175.1982,0,0,0,0,Tonga,0.0,
 ,,,Winter Olympics 2022,2021-03-21 05:25:44,39.9042,116.4074,0,0,0,0,Winter Olympics 2022,0.0,0.0
 ,,,Antarctica,2021-03-21 05:25:44,-71.9499,23.347,0,0,0,0,Antarctica,0.0,0.0
+,,Jersey,United Kingdom,2021-03-21 05:25:44,49.2138,-2.1358,3222,69,0,0,"Jersey, United Kingdom",0.0,0.0
+,,Guernsey,United Kingdom,2021-03-21 05:25:44,49.448196,-2.58949,821,17,0,0,"Guernsey, United Kingdom",0.0,0.0

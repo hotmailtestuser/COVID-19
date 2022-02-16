@@ -3953,7 +3953,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Bermuda,United Kingdom,2020-11-16 05:25:57,32.3078,-64.7505,222,9,189,24,"Bermuda, United Kingdom",356.4947890739165,4.054054054054054
 ,,British Virgin Islands,United Kingdom,2020-11-16 05:25:57,18.4207,-64.64,71,1,70,0,"British Virgin Islands, United Kingdom",234.8116545953633,1.408450704225352
 ,,Cayman Islands,United Kingdom,2020-11-16 05:25:57,19.3133,-81.2546,254,1,240,13,"Cayman Islands, United Kingdom",386.488131466829,0.3937007874015748
-,,Channel Islands,United Kingdom,2020-11-16 05:25:57,49.3723,-2.3644,1003,48,816,139,"Channel Islands, United Kingdom",588.2732450043695,4.785643070787637
+,,Channel Islands,United Kingdom,2020-11-16 05:25:57,49.3723,-2.3644,0,0,816,139,"Channel Islands, United Kingdom",588.2732450043695,4.785643070787637
 ,,England,United Kingdom,2020-11-16 05:25:57,52.3555,-1.1743,1174979,45592,0,1129387,"England, United Kingdom",2099.031391352193,3.880239561728337
 ,,Falkland Islands (Malvinas),United Kingdom,2020-11-16 05:25:57,-51.7963,-59.5236,15,0,13,2,"Falkland Islands (Malvinas), United Kingdom",430.66322136089576,0.0
 ,,Gibraltar,United Kingdom,2020-11-16 05:25:57,36.1408,-5.3536,902,1,754,147,"Gibraltar, United Kingdom",2677.272862188715,0.11086474501108648
@@ -4001,3 +4001,5 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Tonga,2020-11-16 05:25:57,-21.179,-175.1982,0,0,0,0,Tonga,0.0,
 ,,,Winter Olympics 2022,2020-11-16 05:25:57,39.9042,116.4074,0,0,0,0,Winter Olympics 2022,0.0,0.0
 ,,,Antarctica,2020-11-16 05:25:57,-71.9499,23.347,0,0,0,0,Antarctica,0.0,0.0
+,,Jersey,United Kingdom,2020-11-16 05:25:57,49.2138,-2.1358,732,32,0,0,"Jersey, United Kingdom",0.0,0.0
+,,Guernsey,United Kingdom,2020-11-16 05:25:57,49.448196,-2.58949,282,16,0,0,"Guernsey, United Kingdom",0.0,0.0

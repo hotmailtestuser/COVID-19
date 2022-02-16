@@ -3166,7 +3166,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Cesar,Colombia,2020-06-23 04:33:22,9.3373,-73.6536,730,22,188,520,"Cesar, Colombia",60.80424863440321,3.0136986301369864
 ,,Ceuta,Spain,2020-06-23 04:33:22,35.8894,-5.3213,163,4,163,0,"Ceuta, Spain",192.15126902356505,2.4539877300613497
 ,,Chandigarh,India,2020-06-23 04:33:22,30.733839,76.76827800000002,411,6,322,83,"Chandigarh, India",35.47773664125103,1.4598540145985401
-,,Channel Islands,United Kingdom,2020-06-23 04:33:22,49.3723,-2.3644,570,47,512,11,"Channel Islands, United Kingdom",334.31281121883416,8.24561403508772
+,,Channel Islands,United Kingdom,2020-06-23 04:33:22,49.3723,-2.3644,0,0,512,11,"Channel Islands, United Kingdom",334.31281121883416,8.24561403508772
 ,,Chechen Republic,Russia,2020-06-23 04:33:22,43.39761470000001,45.6985005,1619,20,1153,446,"Chechen Republic, Russia",112.66676455708182,1.2353304508956147
 ,,Chelyabinsk Oblast,Russia,2020-06-23 04:33:22,54.4223954,61.1865846,5825,62,2955,2808,"Chelyabinsk Oblast, Russia",166.76037693284582,1.0643776824034334
 ,,Cherkasy Oblast,Ukraine,2020-06-23 04:33:22,49.4444,32.0598,603,21,393,189,"Cherkasy Oblast, Ukraine",49.9854519953148,3.482587064676617
@@ -3784,3 +3784,5 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Tonga,2020-06-23 04:33:22,-21.179,-175.1982,0,0,0,0,Tonga,0.0,
 ,,,Winter Olympics 2022,2020-06-23 04:33:22,39.9042,116.4074,0,0,0,0,Winter Olympics 2022,0.0,0.0
 ,,,Antarctica,2020-06-23 04:33:22,-71.9499,23.347,0,0,0,0,Antarctica,0.0,0.0
+,,Jersey,United Kingdom,2020-06-23 04:33:22,49.2138,-2.1358,314,31,0,0,"Jersey, United Kingdom",0.0,0.0
+,,Guernsey,United Kingdom,2020-06-23 04:33:22,49.448196,-2.58949,252,16,0,0,"Guernsey, United Kingdom",0.0,0.0

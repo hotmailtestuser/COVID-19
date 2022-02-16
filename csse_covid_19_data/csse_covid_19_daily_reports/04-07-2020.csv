@@ -2597,7 +2597,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,British Columbia,Canada,2020-04-07 23:11:15,53.7267,-127.6476,1266,39,0,1227,"British Columbia, Canada"
 ,,British Virgin Islands,United Kingdom,2020-04-07 23:04:29,18.4207,-64.64,3,0,0,3,"British Virgin Islands, United Kingdom"
 ,,Cayman Islands,United Kingdom,2020-04-07 23:04:29,19.3133,-81.2546,45,1,6,38,"Cayman Islands, United Kingdom"
-,,Channel Islands,United Kingdom,2020-04-07 23:04:29,49.3723,-2.3644,335,7,34,294,"Channel Islands, United Kingdom"
+,,Channel Islands,United Kingdom,2020-04-07 23:04:29,49.3723,-2.3644,0,0,34,294,"Channel Islands, United Kingdom"
 ,,Chongqing,China,2020-03-29 00:14:12,30.0572,107.874,579,6,570,3,"Chongqing, China"
 ,,Curacao,Netherlands,2020-04-07 23:04:29,12.1696,-68.99,13,1,7,5,"Curacao, Netherlands"
 ,,Diamond Princess,Canada,2020-04-07 23:11:15,,,0,1,0,0,"Diamond Princess, Canada"
@@ -2881,3 +2881,5 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Tonga,2020-04-07 23:04:49,-21.179,-175.1982,0,0,0,0,Tonga
 ,,,Winter Olympics 2022,2020-04-07 23:04:49,39.9042,116.4074,0,0,0,0,Winter Olympics 2022
 ,,,Antarctica,2020-04-07 23:04:49,-71.9499,23.347,0,0,0,0,Antarctica
+,,Jersey,United Kingdom,2020-04-07 23:04:49,49.2138,-2.1358,151,3,0,0,"Jersey, United Kingdom"
+,,Guernsey,United Kingdom,2020-04-07 23:04:49,49.448196,-2.58949,159,6,0,0,"Guernsey, United Kingdom"

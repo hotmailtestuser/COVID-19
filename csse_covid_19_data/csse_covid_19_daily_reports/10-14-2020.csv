@@ -3937,7 +3937,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Bermuda,United Kingdom,2020-10-15 04:24:28,32.3078,-64.7505,185,9,172,4,"Bermuda, United Kingdom",297.07899089493037,4.864864864864865
 ,,British Virgin Islands,United Kingdom,2020-10-15 04:24:28,18.4207,-64.64,71,1,70,0,"British Virgin Islands, United Kingdom",234.8116545953633,1.408450704225352
 ,,Cayman Islands,United Kingdom,2020-10-15 04:24:28,19.3133,-81.2546,225,1,212,12,"Cayman Islands, United Kingdom",342.36153377967133,0.4444444444444444
-,,Channel Islands,United Kingdom,2020-10-15 04:24:28,49.3723,-2.3644,745,48,642,55,"Channel Islands, United Kingdom",436.95270940005514,6.442953020134228
+,,Channel Islands,United Kingdom,2020-10-15 04:24:28,49.3723,-2.3644,0,0,642,55,"Channel Islands, United Kingdom",436.95270940005514,6.442953020134228
 ,,England,United Kingdom,2020-10-15 04:24:28,52.3555,-1.1743,556528,38293,0,518235,"England, United Kingdom",994.2047833760888,6.880696029669666
 ,,Falkland Islands (Malvinas),United Kingdom,2020-10-15 04:24:28,-51.7963,-59.5236,13,0,13,0,"Falkland Islands (Malvinas), United Kingdom",373.2414585127763,0.0
 ,,Gibraltar,United Kingdom,2020-10-15 04:24:28,36.1408,-5.3536,516,0,435,81,"Gibraltar, United Kingdom",1531.5662936689323,0.0
@@ -3984,3 +3984,5 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Tonga,2020-10-15 04:24:28,-21.179,-175.1982,0,0,0,0,Tonga,0.0,
 ,,,Winter Olympics 2022,2020-10-15 04:24:28,39.9042,116.4074,0,0,0,0,Winter Olympics 2022,0.0,0.0
 ,,,Antarctica,2020-10-15 04:24:28,-71.9499,23.347,0,0,0,0,Antarctica,0.0,0.0
+,,Jersey,United Kingdom,2020-10-15 04:24:28,49.2138,-2.1358,480,32,0,0,"Jersey, United Kingdom",0.0,0.0
+,,Guernsey,United Kingdom,2020-10-15 04:24:28,49.448196,-2.58949,258,16,0,0,"Guernsey, United Kingdom",0.0,0.0

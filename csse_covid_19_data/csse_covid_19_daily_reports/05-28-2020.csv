@@ -3085,7 +3085,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Ceara,Brazil,2020-05-29 02:32:50,-5.4984,-39.3206,37821,2733,0,35088,"Ceara, Brazil"
 ,,Cesar,Colombia,2020-05-29 02:32:50,9.3373,-73.6536,115,12,54,49,"Cesar, Colombia"
 ,,Ceuta,Spain,2020-05-29 02:32:50,35.8894,-5.3213,129,4,163,0,"Ceuta, Spain"
-,,Channel Islands,United Kingdom,2020-05-29 02:32:50,49.3723,-2.3644,560,45,512,3,"Channel Islands, United Kingdom"
+,,Channel Islands,United Kingdom,2020-05-29 02:32:50,49.3723,-2.3644,0,0,512,3,"Channel Islands, United Kingdom"
 ,,Chiapas,Mexico,2020-05-29 02:32:50,16.7569,-93.1292,1471,114,812,545,"Chiapas, Mexico"
 ,,Chiba,Japan,2020-05-29 02:32:50,35.510141,140.198917,896,45,797,54,"Chiba, Japan"
 ,,Chihuahua,Mexico,2020-05-29 02:32:50,28.63300000000001,-106.0691,1400,293,974,133,"Chihuahua, Mexico"
@@ -3546,3 +3546,5 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Tonga,2020-05-29 02:32:50,-21.179,-175.1982,0,0,0,0,Tonga
 ,,,Winter Olympics 2022,2020-05-29 02:32:50,39.9042,116.4074,0,0,0,0,Winter Olympics 2022
 ,,,Antarctica,2020-05-29 02:32:50,-71.9499,23.347,0,0,0,0,Antarctica
+,,Jersey,United Kingdom,2020-05-29 02:32:50,49.2138,-2.1358,303,29,0,0,"Jersey, United Kingdom"
+,,Guernsey,United Kingdom,2020-05-29 02:32:50,49.448196,-2.58949,252,16,0,0,"Guernsey, United Kingdom"
