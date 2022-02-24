@@ -222,8 +222,6 @@ This list includes a complete list of all sources ever used in the data set, sin
     - National Public Health Organization: https://eody.gov.gr/epidimiologika-statistika-dedomena/ektheseis-covid-19/
   - Guatemala:
     - Minesterio de Salud Publica Y Asistencia Social: https://tablerocovid.mspas.gob.gt/
-  - Honduras:
-    - Secretaria de Salud: http://www.salud.gob.hn/site/ 
   - Hong Kong:
     - The Government of The Hong Kong Special Administrative Region: https://www.chp.gov.hk/en/features/102465.html
   - Hungary:
