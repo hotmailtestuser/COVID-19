@@ -189,7 +189,6 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of Ontario: https://covid-19.ontario.ca/data
     - Government of Prince Edward Island: https://www.princeedwardisland.ca/en/information/health-and-wellness/pei-covid-19-case-data
     - Government of Quebec: https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/situation-coronavirus-in-quebec/
-    - Government of Saskatchewan: https://dashboard.saskatchewan.ca/health-wellness
     - Government of Yukon: https://yukon.ca/en/case-counts-covid-19
     - Nunavut Department of Health: https://www.gov.nu.ca/health/information/covid-19-novel-coronavirus
   - Chile: 

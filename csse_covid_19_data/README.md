@@ -476,6 +476,7 @@ Date: Location | File | Change | Data source for change
 * February 8, 2022: Mongolia | Reporting in Mongolia has been corrected from 03-17-2020 to 02-07-2022. This correction is to align our data with the [World Health Organization](https://covid19.who.int/region/wpro/country/mn).
 * February 9, 2022: Ecuador | Reporting in Ecuador has been corrected from 06-26-2021 to 02-08-2022. This correction is to align our data with the [The Government of Ecuador](https://www.salud.gob.ec/informes-de-situacion-sitrep-e-infografias-covid-19-desde-26-07-2021/).
 * February 21, 2022: Maryland, US | Reporting in Maryland has been corrected from 12-05-2021 to 02-15-2022. This correction is to align our data with the [State of Maryland](https://coronavirus.maryland.gov/datasets/mdcovid19-casesbycounty/explore)
+* February 24, 2022: Saskatchewan, Canada | Reporting in Saskatchewan has been corrected from 03-25-2020 to 02-23-2022. This correction is to align our data with the [The Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html).
 
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
