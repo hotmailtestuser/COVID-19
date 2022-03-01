@@ -477,6 +477,7 @@ Date: Location | File | Change | Data source for change
 * February 9, 2022: Ecuador | Reporting in Ecuador has been corrected from 06-26-2021 to 02-08-2022. This correction is to align our data with the [The Government of Ecuador](https://www.salud.gob.ec/informes-de-situacion-sitrep-e-infografias-covid-19-desde-26-07-2021/).
 * February 21, 2022: Maryland, US | Reporting in Maryland has been corrected from 12-05-2021 to 02-15-2022. This correction is to align our data with the [State of Maryland](https://coronavirus.maryland.gov/datasets/mdcovid19-casesbycounty/explore)
 * February 24, 2022: Saskatchewan, Canada | Reporting in Saskatchewan has been corrected from 03-25-2020 to 02-23-2022. This correction is to align our data with the [The Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html).
+* February 28, 2022: Netherlands | Reporting in the Netherlands has been corrected from 07-17-2020 to 02-27-2022. This correction is to align our data with the [The Government of Netherlands](https://coronadashboard.government.nl/verantwoording#confirmed-cases).
 
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
@@ -492,7 +493,7 @@ United States
 * Florida: Providing data once per week (Fridays).
 * Georgia: Providing data Monday-Friday.
 * Guam: Providing data Monday-Friday.
-* Idaho: Providing data Monday-Saturday (as of 11/06/2021).~~Providing data daily (as of 9/11/2021).~~ ~~Providing data Monday-Friday.~~
+* Idaho: Providing data Monday-Friday. Providing data Monday-Saturday (as of 11/06/2021).~~Providing data daily (as of 9/11/2021).~~ ~~Providing data Monday-Friday.~~
 * Illinois: Providing data Monday-Friday.
 * Indiana: Providing data Monday-Friday.
 * Iowa: Providing data once weekly (day of the week TBC).
@@ -501,9 +502,10 @@ United States
 * Louisiana: Providing data Monday-Friday.
 * Maine: Providing data Tuesday-Saturday.
 * Massachuetts: Providing data Monday-Friday.
+* Michigan: Providing data Mondays, Wednesdays, and Fridays (as of 08/09/2021). ~~Providing data Tuesdays and Fridays (as of 07/07/2021)~~. No case data provided for August 21.
 * Minnesota: Providing data Monday-Friday.
 * Mississippi: Providing data Monday-Friday.
-* Michigan: Providing data Mondays, Wednesdays, and Fridays (as of 08/09/2021). ~~Providing data Tuesdays and Fridays (as of 07/07/2021)~~. No case data provided for August 21.
+* Missouri: Providing data Monday-Friday (as of Feb 22, 2022).
 * Montana: Providing data Monday-Friday.
 * Nebraska: Providing state level data only Monday-Friday (in composite with CDC reporting).~~Providing data Monday-Friday (as of 9/25/2021).~~ ~~Providing data Wednedays only (as of 8/11/2021)~~
 * Nevada: Providing data Monday-Friday.
@@ -542,10 +544,14 @@ International
 * NSW, Australia: NSW Health has suspended its survey of the recovery status of patients with COVID-19 to focus on the recent increase in community transmission on July 31, 2020. Therefore, recovery statistics are no longer presented. ([Source](https://www.nsw.gov.au/covid-19/find-facts-about-covid-19), [Issue #3694](https://github.com/CSSEGISandData/COVID-19/issues/3694))
 * Spain: Not updating case or death data on the weekends (and is not currently providing recoveries at any time)
 * Sweden: Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays through Fridays.
-* UK: daily death toll paused on July 18. ([GOV.UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases) and [Reuters](https://www.reuters.com/article/us-health-coronavirus-britain-casualties-idUSKCN24J0GC)). Technical difficulties with the national dashboard are resulting in no update for August 11. [Source](https://twitter.com/phe_uk/status/1293245784599781376?s=21). Corrected on August 12.
+* UK: Providing data Monday-Friday (as of Feb 26, 2022). Daily death toll paused on July 18. ([GOV.UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases) and [Reuters](https://www.reuters.com/article/us-health-coronavirus-britain-casualties-idUSKCN24J0GC)). Technical difficulties with the national dashboard are resulting in no update for August 11. [Source](https://twitter.com/phe_uk/status/1293245784599781376?s=21). Corrected on August 12.
 * Wales, UK: Providing data Monday-Saturday.
 
+## Upcoming Irregular Update Schedules
 
+United States:
+* Arizona: To change to weekly reporting on March 2, 2022.
+* South Carolina: To change to weekly reporting of deaths on March 15, 2022. Availability of case data is at this time (Feb 28, 2022) unclear.
 
 
 ---
