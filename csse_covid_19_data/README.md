@@ -486,17 +486,18 @@ Date: Location | File | Change | Data source for change
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
 
 United States
-* Alabama: Providing data seven days a week (as of 9/17/2021). ~~Providing data Monday-Friday.~~ ~~Providing data Monday, Wednesday, and Friday~~
-* Alaska: Providing data Monday, Wednesday, and Friday (as of 12/07/2021). ~~Providing data Monday-Friday (as of 8/2/2021).~~ ~~Providing data Monday, Wednesday, and Friday, excluding holidays.~~
+* Alabama: Providing data Monday-Friday (as of March 4, 2022). ~~Providing data seven days a week (as of September 17, 2021).~~ ~~Providing data Monday-Friday.~~ ~~Providing data Monday, Wednesday, and Friday~~
+* Alaska: Providing data Monday, Wednesday, and Friday (as of December 7, 2021). ~~Providing data Monday-Friday (as of 8/2/2021).~~ ~~Providing data Monday, Wednesday, and Friday, excluding holidays.~~
+* Arizona: Providing data once per week (as of March 2, 2022)
 * Arkansas: Providing data Monday-Friday. Resuming weekend reporting July 24, 2021.
 * California: Providing data Monday-Friday.
 * Colorado: Providing data Monday-Friday.
 * Conneticut: Providing data Monday-Friday.
-* District of Columbia: Providing data Monday-Friday.
+* District of Columbia: Providing data once per week (Thursdays) as of March 4, 2022. ~~Providing data Monday-Friday.~~
 * Florida: Providing data once per week (Fridays).
 * Georgia: Providing data Monday-Friday.
 * Guam: Providing data Monday-Friday.
-* Idaho: Providing data Monday-Friday. Providing data Monday-Saturday (as of 11/06/2021).~~Providing data daily (as of 9/11/2021).~~ ~~Providing data Monday-Friday.~~
+* Idaho: Providing data Monday-Friday. Providing data Monday-Saturday (as of November 6, 2021).~~Providing data daily (as of 9/11/2021).~~ ~~Providing data Monday-Friday.~~
 * Illinois: Providing data Monday-Friday.
 * Indiana: Providing data Monday-Friday.
 * Iowa: Providing data once weekly (day of the week TBC).
@@ -505,7 +506,7 @@ United States
 * Louisiana: Providing data Monday-Friday.
 * Maine: Providing data Tuesday-Saturday.
 * Massachuetts: Providing data Monday-Friday.
-* Michigan: Providing data Mondays, Wednesdays, and Fridays (as of 08/09/2021). ~~Providing data Tuesdays and Fridays (as of 07/07/2021)~~. No case data provided for August 21.
+* Michigan: Providing data Mondays, Wednesdays, and Fridays (as of August 9, 2021). ~~Providing data Tuesdays and Fridays (as of 07/07/2021)~~. No case data provided for August 21.
 * Minnesota: Providing data Monday-Friday.
 * Mississippi: Providing data Monday-Friday.
 * Missouri: Providing data Monday-Friday (as of Feb 22, 2022).
@@ -536,6 +537,14 @@ United States
 International
 * Belgium: Providing data Tuesday-Saturday.
 * Bosnia and Herezegovina: Not updating data on the weekends.
+* Alberta, Canada: Providing data Monday-Friday.
+* British Columba, Canada: Providing data Monday-Friday.
+* Manitoba, Canada: Providing data Monday-Friday.
+* New Brunswick, Canada: Providing data Monday-Friday.
+* Newfoundland and Labrador, Canada: Providing data Monday, Wednesday, and Friday.
+* Northwest Territories, Canada: Providing data Monday-Friday.
+* Saskatechewan, Canada: Providing data weekly (Thursdays). 
+* Yukon, Canada: Providing data Monday-Friday.
 * Costa Rica: Updating data on Wednesdays and Saturdays only.
 * Denmark: Not updating case, death, or recovered data on the weekends.
 * France: No longer releasing case, hospitalization, or death data on the weekends. Please see [Tableau dashboard](https://dashboard.covid19.data.gouv.fr/vue-d-ensemble?location=FRA). No update to deaths or recoveries for the weekend of August 8 and 9.
