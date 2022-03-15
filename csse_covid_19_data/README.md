@@ -498,7 +498,7 @@ United States
 * Colorado: Providing data Monday-Friday.
 * Conneticut: Providing data Monday-Friday.
 * District of Columbia: Providing data once per week (Thursdays) as of March 4, 2022. ~~Providing data Monday-Friday.~~
-* Florida: Providing data once per week (Fridays).
+* Florida: Providing data once every two weeks (Fridays) (as of March 11, 2022). ~~Providing data once per week (Fridays).~~
 * Georgia: Providing data Monday-Friday.
 * Guam: Providing data Monday-Friday.
 * Idaho: Providing data Monday-Friday. Providing data Monday-Saturday (as of November 6, 2021).~~Providing data daily (as of 9/11/2021).~~ ~~Providing data Monday-Friday.~~
@@ -521,7 +521,7 @@ United States
 * New Mexico: Providing data Monday-Friday.
 * New York City: ~~Providing data Monday-Friday.~~ Providing data seven days a week (as of January 4, 2022).
 * North Carolina: Providing data Monday-Friday.
-* Ohio: Providing death data twice per week (normally Tuesdays and Sundays).
+* Ohio: Providing all data once per week (Thursdays) (as of March 14, 2022). ~~Providing death data twice per week (normally Tuesdays and Sundays).~~
 * Oklahoma: Providing data once per week on Thursdays (as of March 7, 2022). ~~Only updating deaths and county-level case data on Tuesdays. State level case data updated Monday-Friday.~~
 * Oregon: Providing data Monday-Friday (as of July 10, 2021).
 * Rhode Island: Providing state level data Monday-Friday. County level cases and death data is released once per week.
@@ -532,7 +532,7 @@ United States
 * Vermont: ~~Providing data daily (as of August 21, 2021).~~ Providing data Monday-Friday.
 * Virginia: Providing data Monday-Friday.
 * Washington: Did not update October 10-12 due to data entry issue. ~~As of December 20, only updating Monday-Saturday. As of August 1, only updating Monday-Friday.~~ As of Janaury 25, 2022, only updating Monday, Wednesday, and Friday.
-* West Virginia: Providing data daily. ~~Providing data Monday-Friday.~~
+* West Virginia: Providing data Monday-Friday (as of March 14th, 2022). ~~Providing data daily.~~ ~~Providing data Monday-Friday.~~
 * Wisconsin: Providing data Monday-Friday.
 * Wyoming: Providing data Monday-Friday.
 
