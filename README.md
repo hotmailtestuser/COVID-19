@@ -171,6 +171,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - COVID Live: https://www.covidlive.com.au/
   - Azerbaijan:
     - Azerbaijan Operational Headquarters under the Cabinet of Ministers: https://koronavirusinfo.az/az
+  - Belarus:
+    - Ministry of Health: https://stopcovid.belta.by/
   - Belgium:
     - Sciensano: https://datastudio.google.com/embed/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/giyUB
   - Brazil: 
@@ -184,7 +186,6 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of Canada: https://www.canada.ca/en/public-health/services/diseases/coronavirus.html
     - Government of Manitoba: https://www.gov.mb.ca/covid19/updates/cases.html
     - Government of New Brunswick: https://experience.arcgis.com/experience/8eeb9a2052d641c996dba5de8f25a8aa
-    - Government of Newfoundland and Labrador: https://covid-19-newfoundland-and-labrador-gnl.hub.arcgis.com/
     - Government of Northwest Territories: https://www.gov.nt.ca/covid-19/
     - Government of Ontario: https://covid-19.ontario.ca/data
       - Ottawa Public Health: https://www.ottawapublichealth.ca/en/reports-research-and-statistics/daily-covid19-dashboard.aspx 
@@ -273,6 +274,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
   - New Zealand:
     - Ministry of Health: https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-current-cases
+    - Government of Cook Islands: https://covid19.gov.ck/
   - Palau:
     - Ministry of Health & Human Services: http://www.palauhealth.org/2019nCoV_SitRep/MOH-COVID-19%20Situation%20Report.pdf 
   - Paraguay:
