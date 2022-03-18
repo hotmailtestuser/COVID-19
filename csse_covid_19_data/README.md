@@ -488,6 +488,7 @@ Date: Location | File | Change | Data source for change
 * March 03, 2022: Ontario, Canada | Reporting in Ontario, Canada has been updated to include Toronto Public Health, Ottawa Public Health, Region of Peel, and Region of Halton.
 * March 10, 2022: Tennessee, US | Corrected from 2020-03-12 to 2022-02-26
 * March 16, 2022: Tennessee, US | Corrected from 2020-03-12 to 2022-03-05
+* March 17, 2022: Lassen County, California, US | Corrected from 2020-02-01 to 2022-03-16 to report cases and deaths from state source
 
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.
