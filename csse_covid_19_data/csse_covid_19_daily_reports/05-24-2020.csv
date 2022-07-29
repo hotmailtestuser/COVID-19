@@ -23,7 +23,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 27001,Aitkin,Minnesota,US,2020-05-25 02:32:44,46.60962049,-93.4116826,6,0,0,6,"Aitkin, Minnesota, US"
 12001,Alachua,Florida,US,2020-05-25 02:32:44,29.67866525,-82.35928158,361,7,0,354,"Alachua, Florida, US"
 37001,Alamance,North Carolina,US,2020-05-25 02:32:44,36.0434701,-79.39976137,278,20,0,258,"Alamance, North Carolina, US"
-6001,Alameda,California,US,2020-05-25 02:32:44,37.64629437,-121.8929271,2835,92,0,2740,"Alameda, California, US"
+6001,Alameda,California,US,2020-05-25 02:32:44,37.64629437,-121.8929271,2836,92,0,2740,"Alameda, California, US"
 8003,Alamosa,Colorado,US,2020-05-25 02:32:44,37.57250606,-105.7885451,58,2,0,56,"Alamosa, Colorado, US"
 36001,Albany,New York,US,2020-05-25 02:32:44,42.60060306,-73.97723916,1782,76,0,1706,"Albany, New York, US"
 56001,Albany,Wyoming,US,2020-05-25 02:32:44,41.65498705,-105.7235415,17,0,0,17,"Albany, Wyoming, US"
@@ -3152,7 +3152,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Nuevo Leon,Mexico,2020-05-25 02:32:44,25.5922,-99.9962,1149,62,756,331,"Nuevo Leon, Mexico"
 ,,OHiggins,Chile,2020-05-25 02:32:44,-48.4674,-72.5592,554,11,0,543,"OHiggins, Chile"
 ,,Oaxaca,Mexico,2020-05-25 02:32:44,17.0732,-96.7266,1001,100,495,406,"Oaxaca, Mexico"
-,,Ontario,Canada,2020-05-25 02:32:44,51.2538,-85.3232,26251,2691,19477,5239,"Ontario, Canada"
+,,Ontario,Canada,2020-05-25 02:32:44,51.2538,-85.3232,26251,2073,19477,5239,"Ontario, Canada"
 ,,P.A. Bolzano,Italy,2020-05-25 02:32:44,46.49933453,11.35662422,2593,291,2107,195,"P.A. Bolzano, Italy"
 ,,P.A. Trento,Italy,2020-05-25 02:32:44,46.06893511,11.12123097,4404,457,3412,535,"P.A. Trento, Italy"
 ,,Pais Vasco,Spain,2020-05-25 02:32:44,42.9896,-2.6189,13476,1494,0,11982,"Pais Vasco, Spain"
@@ -3346,7 +3346,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Namibia,2020-05-25 02:32:44,-22.9576,18.4904,21,0,14,7,Namibia
 ,,,Nepal,2020-05-25 02:32:44,28.1667,84.25,603,3,87,513,Nepal
 ,,,Netherlands,2020-05-25 02:32:44,52.1326,5.2913,45236,5822,0,39414,Netherlands
-,,,New Zealand,2020-05-25 02:32:44,-40.9006,174.886,1504,21,1456,27,New Zealand
+,,,New Zealand,2020-05-25 02:32:44,-40.9006,174.886,1504,23,1456,27,New Zealand
 ,,,Nicaragua,2020-05-25 02:32:44,12.865416,-85.207229,279,17,199,63,Nicaragua
 ,,,Niger,2020-05-25 02:32:44,17.607789,8.081666,945,61,783,101,Niger
 ,,,Nigeria,2020-05-25 02:32:44,9.082,8.6753,7839,226,2263,5350,Nigeria
