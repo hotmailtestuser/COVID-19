@@ -420,6 +420,9 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * September 15, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
 * September 15, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * September 16, 2022 | North Dakota, US | Corrected from 2020-03-09 to 2022-09-15 | [Data Source](https://www.health.nd.gov/sites/www/files/documents/Files/MSS/coronavirus/charts-data/PublicUseData.csv)
+* September 20, 2022 | United Kingdom | Corrected from 2020-01-30 to 2022-09-02 | Adjusting United Kingdom's data based on National Statistics Office [Data Source](https://coronavirus.data.gov.uk/metrics/doc/cumDailyNsoDeathsByDeathDate)
+* September 21, 2022 | Tennessee, US | Corrected from 2020-03-12 to 2022-09-20 | [Data Source](https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-County-New.XLSX)
+* September 22, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
@@ -645,9 +648,9 @@ United States
 * Northern Mariana Islands: Providing data once weekly (Mondays).
 * Ohio: Providing all data once per week (Thursdays) (as of March 14, 2022). ~~Providing death data twice per week (normally Tuesdays and Sundays).~~
 * Oklahoma: Providing data once per week on Thursdays (as of March 7, 2022). ~~Only updating deaths and county-level case data on Tuesdays. State level case data updated Monday-Friday.~~
-* Oregon: Providing data Monday-Friday (as of July 10, 2021).
+* Oregon: Providing data once weekly (Wednesdays) (as of September 15, 2022). ~~Providing data Monday-Friday (as of July 10, 2021).~~
 * Republic of Palau: Providing data Tuesdays and Fridays.
-* Rhode Island: Providing state level data Monday-Friday. County level cases and death data is released once per week.
+* Rhode Island: providing data once per week (Thursdays) (as of August 10, 2022). ~~Providing state level data Monday-Friday. County level cases and death data is released once per week.~~
 * Pennsylvania: Providing data once per week (Wednesdays) (as of May 6, 2022).
 * South Carlina: Providing data weekly (Tuesdays) (as of March 15, 2022). ~~Providing data Monday-Friday.~~
 * South Dakota: Providing data weekly (as of April 12, 2022). ~~Providing data Monday-Friday (as of August 16, 2021). Providing data Wednesdays only.Saturday and Sunday data will be reported on Tuesdays.~~
