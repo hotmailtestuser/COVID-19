@@ -389,7 +389,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 27021,Cass,Minnesota,US,2020-05-12 03:32:27,46.95043611,-94.32603968,8,1,0,7,"Cass, Minnesota, US"
 29037,Cass,Missouri,US,2020-05-12 03:32:27,38.64789422,-94.353399,69,8,0,61,"Cass, Missouri, US"
 31025,Cass,Nebraska,US,2020-05-12 03:32:27,40.90899107,-96.13971217,11,0,0,11,"Cass, Nebraska, US"
-38017,Cass,North Dakota,US,2020-05-12 03:32:27,46.93201724,-97.2444719,864,21,0,800,"Cass, North Dakota, US"
+38017,Cass,North Dakota,US,2020-05-12 03:32:27,46.93201724,-97.2444719,863,21,0,800,"Cass, North Dakota, US"
 48067,Cass,Texas,US,2020-05-12 03:32:27,33.07499881,-94.34646905,10,0,0,20,"Cass, Texas, US"
 16031,Cassia,Idaho,US,2020-05-12 03:32:27,42.28347888,-113.6012409,15,1,0,14,"Cassia, Idaho, US"
 48069,Castro,Texas,US,2020-05-12 03:32:27,34.53016752,-102.2617243,17,1,0,22,"Castro, Texas, US"
@@ -2320,7 +2320,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 6073,San Diego,California,US,2020-05-12 03:32:27,33.03484597,-116.7365326,5065,175,0,4890,"San Diego, California, US"
 6075,San Francisco,California,US,2020-05-12 03:32:27,37.75215114,-122.4385672,1974,35,0,1939,"San Francisco, California, US"
 48407,San Jacinto,Texas,US,2020-05-12 03:32:27,30.57933681,-95.16260304,10,0,0,11,"San Jacinto, Texas, US"
-6077,San Joaquin,California,US,2020-05-12 03:32:27,37.93433732,-121.2730061,623,30,0,593,"San Joaquin, California, US"
+6077,San Joaquin,California,US,2020-05-12 03:32:27,37.93433732,-121.2730061,622,30,0,593,"San Joaquin, California, US"
 8111,San Juan,Colorado,US,2020-05-12 03:32:27,37.76248981,-107.67632890000002,2,0,0,1,"San Juan, Colorado, US"
 35045,San Juan,New Mexico,US,2020-05-12 03:32:27,36.50838318,-108.320437,1107,71,0,1036,"San Juan, New Mexico, US"
 49037,San Juan,Utah,US,2020-05-12 03:32:27,37.62762978,-109.80337140000002,149,3,0,146,"San Juan, Utah, US"
@@ -3114,7 +3114,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,France,2020-05-12 03:32:27,46.2276,2.2137,176651,26604,55561,94486,France
 ,,,Gabon,2020-05-12 03:32:27,-0.8037,11.6094,802,9,127,666,Gabon
 ,,,Gambia,2020-05-12 03:32:27,13.4432,-15.3101,22,1,10,11,Gambia
-,,,Georgia,2020-05-12 03:32:27,42.3154,43.3569,638,11,317,310,Georgia
+,,,Georgia,2020-05-12 03:32:27,42.3154,43.3569,638,10,317,310,Georgia
 ,,,Germany,2020-05-12 03:32:27,51.165691,10.451526,172576,7661,145617,19298,Germany
 ,,,Ghana,2020-05-12 03:32:27,7.9465,-1.0232,4700,22,494,4184,Ghana
 ,,,Greece,2020-05-12 03:32:27,39.0742,21.8243,2726,151,1374,1201,Greece

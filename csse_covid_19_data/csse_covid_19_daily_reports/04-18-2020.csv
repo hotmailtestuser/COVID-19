@@ -2181,7 +2181,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 6073,San Diego,California,US,2020-04-18 22:32:47,33.03484597,-116.7365326,2213,70,0,2143,"San Diego, California, US"
 6075,San Francisco,California,US,2020-04-18 22:32:47,37.75215114,-122.4385672,1144,19,0,1125,"San Francisco, California, US"
 48407,San Jacinto,Texas,US,2020-04-18 22:32:47,30.57933681,-95.16260304,8,0,0,10,"San Jacinto, Texas, US"
-6077,San Joaquin,California,US,2020-04-18 22:32:47,37.93433732,-121.2730061,395,17,0,378,"San Joaquin, California, US"
+6077,San Joaquin,California,US,2020-04-18 22:32:47,37.93433732,-121.2730061,394,17,0,378,"San Joaquin, California, US"
 35045,San Juan,New Mexico,US,2020-04-18 22:32:47,36.50838318,-108.320437,260,14,0,246,"San Juan, New Mexico, US"
 49037,San Juan,Utah,US,2020-04-18 22:32:47,37.62762978,-109.8033714,18,2,0,16,"San Juan, Utah, US"
 53055,San Juan,Washington,US,2020-04-18 22:32:47,48.60182783,-122.96745,15,0,0,15,"San Juan, Washington, US"
@@ -2934,7 +2934,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,France,2020-04-18 22:32:28,46.2276,2.2137,150746,19303,35983,95460,France
 ,,,Gabon,2020-04-18 22:32:28,-0.8037,11.6094,108,1,7,100,Gabon
 ,,,Gambia,2020-04-18 22:32:28,13.4432,-15.3101,9,1,2,6,Gambia
-,,,Georgia,2020-04-18 22:32:28,42.3154,43.3569,388,4,86,298,Georgia
+,,,Georgia,2020-04-18 22:32:28,42.3154,43.3569,388,3,86,298,Georgia
 ,,,Germany,2020-04-18 22:32:28,51.165691,10.451526,143342,4459,85400,53483,Germany
 ,,,Ghana,2020-04-18 22:32:28,7.9465,-1.0232,834,9,99,726,Ghana
 ,,,Greece,2020-04-18 22:32:28,39.0742,21.8243,2235,110,269,1856,Greece
